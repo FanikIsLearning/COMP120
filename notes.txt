@@ -1,0 +1,11 @@
+It encourages team structures and attitudes that make communication more facile. 
+It emphasizes rapid delivery of operational software and deemphasizes the importance of intermediate work products (not always a good thing); 
+it adopts the customer as a part of the development team and works to eliminate the “us and them” attitude that continues to pervade many software projects; 
+it recognizes that planning in an uncertain world has its limits and that a project plan must be flexible.
+
+Agility can be applied to any software process. However, to accomplish this, 
+it is essential that the process be designed in a way that allows the project team to adapt tasks and to streamline them, 
+conduct planning in a way that understands the fluidity of an agile development approach, 
+eliminate all but essential work products and keep them lean, 
+and emphasize an incremental delivery strategy that gets working software to the customer as rapidly as feasible for the product type and operational 
+environment.
